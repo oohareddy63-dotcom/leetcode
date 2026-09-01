@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
