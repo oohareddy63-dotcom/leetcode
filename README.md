@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
 ## Matrix
 |  |
 | ------- |
