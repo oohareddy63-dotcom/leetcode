@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
