@@ -3,8 +3,7 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(candidates);
         backtrack(candidates, 0, target, new ArrayList<>(), result);
-        return result;
-        
+        return result;   
     }
     private void backtrack(int[] cand, int start, int target, List<Integer> list, List<List<Integer>> result) {
         if (target < 0) {
