@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
