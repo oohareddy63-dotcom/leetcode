@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0198-house-robber) |
 ## Stack
 |  |
 | ------- |
