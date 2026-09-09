@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0337-house-robber-iii) |
 ## Binary Search Tree
 |  |
@@ -120,15 +122,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0337-house-robber-iii) |
 ## DP on Trees
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0337-house-robber-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
