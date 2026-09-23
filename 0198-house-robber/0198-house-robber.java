@@ -1,4 +1,4 @@
-class Solution {
+class Solution {                                   
     int rob(int[] nums) {
    // If there is only one house, rob it
     if (nums.length < 2)
