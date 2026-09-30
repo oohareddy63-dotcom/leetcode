@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 ## Sorting
