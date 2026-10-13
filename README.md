@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
