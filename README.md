@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
