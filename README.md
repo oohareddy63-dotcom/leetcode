@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0213-house-robber-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
