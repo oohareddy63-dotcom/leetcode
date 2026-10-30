@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0198-house-robber) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/oohareddy63-dotcom/leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
