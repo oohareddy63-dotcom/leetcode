@@ -22,5 +22,5 @@ class Solution {
         tw+=Math.min(rightmax[i],leftmax[i])-height[i];
     }
     return tw;
-    }   
+    }
 }
