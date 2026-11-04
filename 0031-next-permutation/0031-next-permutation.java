@@ -11,7 +11,7 @@ class Solution {
         }
         swap(nums,i,j);
        }
-       reverse(nums,i+1);
+     reverse(nums,i+1);
     }
        public static void swap(int[] nums,int i,int j){
         int temp=nums[i];
