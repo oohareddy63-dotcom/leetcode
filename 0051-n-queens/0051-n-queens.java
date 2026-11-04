@@ -4,19 +4,14 @@ class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> result = new ArrayList<>();
         char[][] board = new char[n][n];
-
         // Fill board with '.'
         for (int i = 0; i < n; i++) {
             Arrays.fill(board[i], '.');
         }
-
         // Start from row 0
         nQueens(board, 0, result);
-
         return result;
     }
-
-
     // Check if Queen can be placed
     public boolean isSafe(char[][] board, int row, int col) {
 
