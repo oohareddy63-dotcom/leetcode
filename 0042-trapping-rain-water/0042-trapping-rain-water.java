@@ -19,7 +19,6 @@ class Solution {
     for(int i=0;i<n;i++){
         tw+=Math.min(rightmax[i],leftmax[i])-height[i];
     }
-
     return tw;
     }
 }
